@@ -9,4 +9,4 @@ okok
 Lalala
 
 #Tux
-!Tux.png (C:/Users/alexb/Downloads/Tux.png)
+![Mascota de Linux](/Tux.png)
