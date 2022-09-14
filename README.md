@@ -8,6 +8,6 @@ okok
 ## Apartado B
 Lalala
 
-#Tux
+# Tux
 
 ![Mascota de Linux](/Tux.png)
