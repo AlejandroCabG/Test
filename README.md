@@ -9,7 +9,6 @@ Código:
       </head>
   
 Ese es un código `HTML` ! no `PHP`
-Lalala
 
 # Tux
 
