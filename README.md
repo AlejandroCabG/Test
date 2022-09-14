@@ -3,10 +3,10 @@
 ## Apartado A
 Código:
 
-  <html>
-    <head>
-     <title>Test</title>
-    </head>
+    <html>
+      <head>
+      <title>Test</title>
+      </head>
   
 ## Apartado B
 Lalala
