@@ -8,7 +8,7 @@ Código:
       <title>Test</title>
       </head>
   
-## Apartado B
+Ese es un código `code`HTML ! no `code`PHP
 Lalala
 
 # Tux
