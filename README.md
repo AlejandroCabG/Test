@@ -2,12 +2,12 @@
 
 ## Apartado A
 Código:
-<code>
+
 <html>
   <head>
   </head>
 </html>
-</code>
+
 
 ## Apartado B
 Lalala
