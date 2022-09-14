@@ -3,12 +3,12 @@
 ## Apartado A
 Código:
 
-``
+`code`
 <html>
   <head>
   </head>
 </html>
-``
+
 
 ## Apartado B
 Lalala
