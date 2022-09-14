@@ -1,10 +1,14 @@
 # Test
 
 ## Apartado A
-okok
-- Sí
-- No
-- No se
+Código:
+<code>
+<html>
+  <head>
+  </head>
+</html>
+</code>
+
 ## Apartado B
 Lalala
 
@@ -13,3 +17,5 @@ Lalala
 ![Mascota de Linux](/Tux.png)
 
 <img src="Tux.png" alt="drawing" width="200"/>
+
+
